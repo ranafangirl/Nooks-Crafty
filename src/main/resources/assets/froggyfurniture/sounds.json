@@ -1,0 +1,127 @@
+{
+    "block.furniture_break": {
+        "subtitle": "subtitles.froggyfurniture.furniture_break",
+        "category": "block",
+        "sounds": [ {
+                "name": "froggyfurniture:block/furniture_break",
+                "stream": false
+            }
+        ]
+    },
+    "block.furniture_fall": {
+        "subtitle": "subtitles.froggyfurniture.furniture_fall",
+        "category": "block",
+        "sounds": [ {
+                "name": "froggyfurniture:block/furniture_fall",
+                "stream": false
+            }
+        ]
+    },
+    "block.furniture_hit": {
+        "subtitle": "subtitles.froggyfurniture.furniture_hit",
+        "category": "block",
+        "sounds": [ {
+                "name": "froggyfurniture:block/furniture_hit_0",
+                "stream": false
+            },
+            {
+                "name": "froggyfurniture:block/furniture_hit_1",
+                "stream": false
+            }
+        ]
+    },
+    "block.furniture_place": {
+        "subtitle": "subtitles.froggyfurniture.furniture_place",
+        "category": "block",
+        "sounds": [ {
+                "name": "froggyfurniture:block/furniture_place",
+                "stream": false
+            }
+        ]
+    },
+    "block.furniture_step": {
+        "subtitle": "subtitles.froggyfurniture.furniture_step",
+        "category": "block",
+        "sounds": [ {
+                "name": "froggyfurniture:block/furniture_step_0",
+                "stream": false
+            },
+            {
+                "name": "froggyfurniture:block/furniture_step_1",
+                "stream": false
+            },
+            {
+                "name": "froggyfurniture:block/furniture_step_2",
+                "stream": false
+            }
+        ]
+    },
+    "block.furniture_open": {
+        "subtitle": "subtitles.froggyfurniture.furniture_open",
+        "category": "block",
+        "sounds": [ {
+                "name": "froggyfurniture:block/furniture_open",
+                "stream": false
+            }
+        ]
+    },
+    "block.furniture_close": {
+        "subtitle": "subtitles.froggyfurniture.furniture_close",
+        "category": "block",
+        "sounds": [ {
+                "name": "froggyfurniture:block/furniture_close",
+                "stream": false
+            }
+        ]
+    },
+    "entity.froggy_hat_speak": {
+        "subtitle": "subtitles.froggyfurniture.froggy_hat_speak",
+        "category": "entity",
+        "sounds": [ {
+                "name": "froggyfurniture:entity/froggy_hat_speak_0",
+                "stream": false
+            },
+            {
+                "name": "froggyfurniture:entity/froggy_hat_speak_1",
+                "stream": false
+            },
+            {
+                "name": "froggyfurniture:entity/froggy_hat_speak_2",
+                "stream": false
+            },
+            {
+                "name": "froggyfurniture:entity/froggy_hat_speak_3",
+                "stream": false
+            },
+            {
+                "name": "froggyfurniture:entity/froggy_hat_speak_4",
+                "stream": false
+            },
+            {
+                "name": "froggyfurniture:entity/froggy_hat_speak_5",
+                "stream": false
+            }
+        ]
+    },
+        "entity.froggy_hat_speak_in_rain": {
+        "subtitle": "subtitles.froggyfurniture.froggy_hat_speak_in_rain",
+        "category": "entity",
+        "sounds": [ {
+                "name": "froggyfurniture:entity/froggy_hat_speak_in_rain_0",
+                "stream": false
+            },
+            {
+                "name": "froggyfurniture:entity/froggy_hat_speak_in_rain_1",
+                "stream": false
+            },
+            {
+                "name": "froggyfurniture:entity/froggy_hat_speak_in_rain_2",
+                "stream": false
+            },
+            {
+                "name": "froggyfurniture:entity/froggy_hat_speak_in_rain_3",
+                "stream": false
+            }
+        ]
+    }
+}

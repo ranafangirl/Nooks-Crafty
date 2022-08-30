@@ -1,0 +1,8 @@
+{
+  "parent": "froggyfurniture:block/lily_pad_table",
+  "textures": {
+		"top": "froggyfurniture:block/lily_pad_table_top",
+		"bottom": "froggyfurniture:block/lily_pad_table_bottom",
+		"particle": "froggyfurniture:block/lily_pad_table_top"
+  }
+}

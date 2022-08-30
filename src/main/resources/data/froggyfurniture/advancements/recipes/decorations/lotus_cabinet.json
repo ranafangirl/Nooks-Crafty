@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_cw": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:lily_pad"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "froggyfurniture:lotus_cabinet"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_cw",
+			"has_the_recipe"
+		]
+	],
+	"rewards": {
+		"recipes": [
+			"froggyfurniture:lotus_cabinet"
+		]
+	}
+}

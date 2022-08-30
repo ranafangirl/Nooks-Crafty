@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "facing=north,half=upper": {
+      "model": "froggyfurniture:block/froggy_chair_top",
+      "y": 0
+    },
+    "facing=south,half=upper": {
+      "model": "froggyfurniture:block/froggy_chair_top",
+      "y": 180
+    },
+    "facing=west,half=upper": {
+      "model": "froggyfurniture:block/froggy_chair_top",
+      "y": 270
+    },
+    "facing=east,half=upper": {
+      "model": "froggyfurniture:block/froggy_chair_top",
+      "y": 90
+    },
+    "facing=north,half=lower": {
+      "model": "froggyfurniture:block/froggy_chair_bottom",
+      "y": 0
+    },
+    "facing=south,half=lower": {
+      "model": "froggyfurniture:block/froggy_chair_bottom",
+      "y": 180
+    },
+    "facing=west,half=lower": {
+      "model": "froggyfurniture:block/froggy_chair_bottom",
+      "y": 270
+    },
+    "facing=east,half=lower": {
+      "model": "froggyfurniture:block/froggy_chair_bottom",
+      "y": 90
+    }
+  }
+}

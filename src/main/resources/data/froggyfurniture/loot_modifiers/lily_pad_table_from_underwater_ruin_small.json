@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/underwater_ruin_small"
+    }
+  ],
+  "addition": "froggyfurniture:lily_pad_table",
+  "type": "froggyfurniture:lily_pad_table_from_underwater_ruin_small"
+}

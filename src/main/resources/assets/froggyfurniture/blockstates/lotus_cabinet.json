@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "facing=north,open=false": {
+      "model": "froggyfurniture:block/lotus_cabinet",
+      "y": 0
+    },
+    "facing=north,open=true": {
+      "model": "froggyfurniture:block/lotus_cabinet_open",
+      "y": 0
+    },
+    "facing=south,open=false": {
+      "model": "froggyfurniture:block/lotus_cabinet",
+      "y": 180
+    },
+    "facing=south,open=true": {
+      "model": "froggyfurniture:block/lotus_cabinet_open",
+      "y": 180
+    },
+    "facing=west,open=false": {
+      "model": "froggyfurniture:block/lotus_cabinet",
+      "y": 270
+    },
+    "facing=west,open=true": {
+      "model": "froggyfurniture:block/lotus_cabinet_open",
+      "y": 270
+    },
+    "facing=east,open=false": {
+      "model": "froggyfurniture:block/lotus_cabinet",
+      "y": 90
+    },
+    "facing=east,open=true": {
+      "model": "froggyfurniture:block/lotus_cabinet_open",
+      "y": 90
+    }
+  }
+}

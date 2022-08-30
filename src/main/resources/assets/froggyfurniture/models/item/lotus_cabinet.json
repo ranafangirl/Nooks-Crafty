@@ -1,0 +1,10 @@
+{
+  "parent": "froggyfurniture:block/lotus_cabinet",
+  "textures": {
+		"top": "froggyfurniture:block/lotus_cabinet_top",
+		"front": "froggyfurniture:block/lotus_cabinet_front",
+		"side": "froggyfurniture:block/lotus_cabinet_side",
+		"doors": "froggyfurniture:block/lotus_cabinet_doors",
+		"particle": "froggyfurniture:block/lotus_cabinet_side"
+  }
+}

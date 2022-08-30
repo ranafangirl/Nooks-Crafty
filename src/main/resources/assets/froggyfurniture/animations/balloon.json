@@ -1,0 +1,103 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"balloon_float": {
+			"loop": true,
+			"animation_length": 8,
+			"bones": {
+				"balloon": {
+					"rotation": {
+						"0.0": {
+							"vector": [-12.5, 0, -12.5]
+						},
+						"2.0": {
+							"vector": [0, 0, 7.5],
+							"easing": "easeInOutQuint"
+						},
+						"4.0": {
+							"vector": [20, 0, -12.5],
+							"easing": "easeInOutQuint"
+						},
+						"6.0": {
+							"vector": [0, 0, 7.5],
+							"easing": "easeInOutQuint"
+						},
+						"8.0": {
+							"vector": [-12.5, 0, -12.5],
+							"easing": "easeInOutQuint"
+						}
+					}
+				},
+				"stringTop": {
+					"rotation": {
+						"0.0": {
+							"vector": [-19, 5, -17]
+						},
+						"2.0": {
+							"vector": [12.5, 0, 7.5],
+							"easing": "easeInOutExpo"
+						},
+						"4.0": {
+							"vector": [11, 5, -17],
+							"easing": "easeInOutExpo"
+						},
+						"6.0": {
+							"vector": [32.5, 0, 7.5],
+							"easing": "easeInOutExpo"
+						},
+						"8.0": {
+							"vector": [-19, 5, -17],
+							"easing": "easeInOutExpo"
+						}
+					}
+				},
+				"stringBottom": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, -15]
+						},
+						"2.0": {
+							"vector": [0, 0, 7.5],
+							"easing": "easeInOutExpo"
+						},
+						"4.0": {
+							"vector": [0, 0, -15],
+							"easing": "easeInOutExpo"
+						},
+						"6.0": {
+							"vector": [0, 0, 7.5],
+							"easing": "easeInOutExpo"
+						},
+						"8.0": {
+							"vector": [0, 0, -15],
+							"easing": "easeInOutExpo"
+						}
+					}
+				},
+				"present": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, -12.5]
+						},
+						"2.0": {
+							"vector": [0, 0, 7.5],
+							"easing": "easeInOutExpo"
+						},
+						"4.0": {
+							"vector": [0, 0, -12.5],
+							"easing": "easeInOutExpo"
+						},
+						"6.0": {
+							"vector": [0, 0, 7.5],
+							"easing": "easeInOutExpo"
+						},
+						"8.0": {
+							"vector": [0, 0, -12.5],
+							"easing": "easeInOutExpo"
+						}
+					}
+				}
+			}
+		}
+	}
+}

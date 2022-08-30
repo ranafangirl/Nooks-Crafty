@@ -1,0 +1,13 @@
+{
+	"item.froggyfurniture.froggy_hat": "§eFroggy Hat",
+	"item.froggyfurniture.froggy_hat_desc": "A hat that loves adventure!",
+	
+	"block.froggyfurniture.froggy_chair": "§eFroggy Chair",
+	"block.froggyfurniture.lily_pad_table": "§eLily Pad Table",
+	"block.froggyfurniture.lotus_cabinet": "Lotus Cabinet",
+	
+	"container.lotus_cabinet": "Lotus Cabinet",
+	
+   	"subtitles.froggyfurniture.froggy_chair_place": "Froggy chair sproings",
+    "subtitles.froggyfurniture.froggy_hat_speak": "Froggy hat croaks"
+}

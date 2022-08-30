@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "W W",
+    "WWW"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lily_pad"
+    },
+    "W": {
+      "item": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "froggyfurniture:lotus_cabinet",
+    "count": 1
+  }
+}

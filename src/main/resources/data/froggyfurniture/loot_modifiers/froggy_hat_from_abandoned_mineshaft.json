@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/abandoned_mineshaft"
+    }
+  ],
+  "addition": "froggyfurniture:froggy_hat",
+  "type": "froggyfurniture:froggy_hat_from_abandoned_mineshaft"
+}

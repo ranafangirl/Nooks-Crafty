@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+ 
+[[mods]]
+modId="froggyfurniture"
+version="v1.0.0"
+displayName="Froggy Furniture"
+logoFile="froggy_furniture_logo.png"
+credits="ranafangirl"
+authors="ranafangirl"
+description='''
+Adds cute features from the classic game "Animal Crossing" on Nintendo GameCube!
+''' 
+ 

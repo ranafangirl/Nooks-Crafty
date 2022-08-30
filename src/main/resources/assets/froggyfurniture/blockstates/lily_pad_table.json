@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "froggyfurniture:block/lily_pad_table",
+      "y": 0
+    },
+    "facing=south": {
+      "model": "froggyfurniture:block/lily_pad_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "froggyfurniture:block/lily_pad_table",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "froggyfurniture:block/lily_pad_table",
+      "y": 90
+    }
+  }
+}
